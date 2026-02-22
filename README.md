@@ -72,6 +72,3 @@ jogo.exe
 
 Projeto acadêmico desenvolvido na matéria de Estrutura de Dados 2, para aplicação prática da utilização de **Grafos**, integrando lógica, estruturas dinâmicas e interatividade em terminal.
 
-
-
-Só me dizer 👌
